@@ -10,9 +10,9 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Prep: Career: Professional Etiquette	  |         |
 |Prep: Career: Update Your Resume  |         |
  |Prep: Create a Reading Notes Repo|            |
-| Prep: Deck Out Your Editor   |         |
-| Prep: Get Started with Python, Brush Up on Everything Else  |         |
-| Prep: Introduction to SQL  |         |
+| Prep: Deck Out Your Editor   |  [the link ](https://pages.github.com/).       |
+| Prep: Get Started with Python, Brush Up on Everything Else  | [the link ](https://pages.github.com/).          |
+| Prep: Introduction to SQL  |     [the link ](https://pages.github.com/).      |
 | Prep: Practice in the Terminal  |         |
  | Prep: Setup your Accounts  |         |
 | Prep: The Growth Mindset |            |
