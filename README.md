@@ -1,4 +1,5 @@
 # Reading Notes
+This website contains the tasks related to the reading notes :page_facing_up: for the Advanced Software Development in Python course .. 
 ## Code 102 - Intro to Software Development
 ### Table Contents: 
 
