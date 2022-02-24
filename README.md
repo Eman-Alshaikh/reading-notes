@@ -11,7 +11,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Prep: Career: Update Your Resume  |         |
  |Prep: Create a Reading Notes Repo|            |
 | Prep: Deck Out Your Editor   |  [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Deck%20Out%20Your%20Editor.md).       |
-| Prep: Get Started with Python, Brush Up on Everything Else  | [the link ](https://pages.github.com/).          |
+| Prep: Get Started with Python, Brush Up on Everything Else  | [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Python.md).          |
 | Prep: Introduction to SQL  |  [the link ](https://pages.github.com/).      |
 | Prep: Practice in the Terminal  |         |
  | Prep: Setup your Accounts  |         |
