@@ -70,6 +70,6 @@ Look up the manual page for the ( ls )command.
 Find the size of every directory in your current directory.
 ![image](https://user-images.githubusercontent.com/97835837/155734316-2bfc1e61-f7d4-404f-a929-cd9b8f6854d7.png)
 
-:small_blue_diamond:df -h
+:small_blue_diamond:df -h:
 Display how much disk space is used and also free.
 ![image](https://user-images.githubusercontent.com/97835837/155734685-be40a4f8-f3ef-46a5-bb80-956299716d37.png)
