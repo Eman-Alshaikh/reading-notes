@@ -1,0 +1,8 @@
+Update your resume: (https://drive.google.com/drive/u/0/my-drive)
+LinkedIn: (https://www.linkedin.com/in/eman-al-shaikh-hussain-9a4583194/)
+GitHub: (https://github.com/Eman-Alshaikh)
+Social Media: (https://www.facebook.com/profile.php?id=100011410822262)
+Behavioral questions: (https://docs.google.com/document/d/1IX6rDC-0r4EFQgbNgMvqwB-xkKge4DIQ/edit)
+Networking event opportunities: (https://docs.google.com/document/d/152abDrEV8X1Q0y_Ca7AamS5dUCVlERg4/edit)
+Target companies: (https://docs.google.com/spreadsheets/d/1PGylOhiYIuDMLcGr6iUdMNSVwCwczWovbr1HqSRXBGA/edit#gid=0)
+Professional Pitch: (https://drive.google.com/file/d/1SzQj6zmLaX_lHVho581xRiDj5qsgvchr/view?usp=sharing)
