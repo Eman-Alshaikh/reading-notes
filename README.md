@@ -7,7 +7,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 | Task Title     | Link |
 | -------------- | ----------- |
 |Prep: Career Coaching Status Report	   |  [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep:%20Career%20Coaching%20Status%20Report.md)       |
-|Prep: Career: Professional Etiquette	  |  [the link ](https://docs.google.com/document/d/1I041Ldaqf8TOZgtbuzmVy7E6Gbac8CAV9v6JY1CkG74/edit)          |
+|Prep: Career: Professional Etiquette	  |  [the link ](https://docs.google.com/document/d/1WCtXLQnU1HBiG0tT7mIbFj4KQJ6SfUxVuQ9g0N3LO04/edit?usp=sharing)          |
 |Prep: Career: Update Your Resume  |     [the link ](https://drive.google.com/file/d/1-ogBu1uXbgjkFa0qWu_X4zmH0HanEri3/view?usp=sharing)       |
  |Prep: Create a Reading Notes Repo|    [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io)           |
 | Prep: Deck Out Your Editor   |  [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Deck%20Out%20Your%20Editor.md).       |
