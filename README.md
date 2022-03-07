@@ -16,7 +16,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 | Prep: Practice in the Terminal  |   [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Practice%20in%20the%20Terminal).         |
  | Prep: Setup your Accounts  |    [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep:%20Setup%20your%20Accounts).      |
 | Prep: The Growth Mindset |      [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep%20Your%20Mindset)       |
-|  Read: Class 03  |      [the link ](https://github.com/Eman-Alshaikh/reading-notes/blob/main/readlass4)    |
+|  Read: Class 03  |      [the link ](https://github.com/Eman-Alshaikh/reading-notes/blob/main/readlass4.md)    |
 
  
 ##  :red_square:Code 201 - Foundations of Software Development
