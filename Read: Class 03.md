@@ -1,4 +1,4 @@
-:red_square: Read & Write Files in Python
+# :red_square:  Read & Write Files in Python
 a file is a contiguous set of bytes used to store data. This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable
 Files on most modern file systems are composed of three main parts:
 
@@ -58,7 +58,7 @@ with open(d_path, 'r') as reader, open(d_r_path, 'w') as writer:
     writer.writelines(reversed(dog_breeds))
 ```
 
-:red_square: Exceptions in Python
+# :red_square: Exceptions in Python
 
 exception error. This type of error occurs whenever syntactically correct Python code results in an error. 
 If you want to throw an error when a certain condition occurs using raise, you could go about it like this:
