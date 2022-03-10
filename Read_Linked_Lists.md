@@ -13,7 +13,7 @@ Singly - Singly refers to the number of references the node has. A Singly linked
 
 Doubly - Doubly refers to there being two (double) references within the node. A Doubly linked list means that there is a reference to both the Next and Previous node.
 
-Node - Nodes are the individual items/links that live in a linked list. Each node contains the data for each link.
+Node -- Nodes are the individual items/links that live in a linked list. Each node contains the data for each link.
 
 Next - Each node contains a property called Next. This property contains the reference to the next node.
 Head - The Head is a reference of type Node to the first node in a linked list.
