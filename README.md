@@ -26,8 +26,10 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Read: Class 02   |  [the link ](Read_Class_02.md)      |
 |Read: Class 03    |  [the link ](Read_Class_03.md)      |
 |Read: Class 04   |  [the link ](readlass4.md)      |
-|Read:Linked Lists   |  [the link ](Read_Linked_Lists.md)      |
+ |Read: Class 06 |  [the link ](Read_Class_06.md)      |
+ |Read:Linked Lists|  [the link ](Read_Linked_Lists.md)       |
 
+ 
 
 
  
