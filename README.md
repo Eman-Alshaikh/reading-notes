@@ -14,7 +14,6 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 | Prep: Get Started with Python, Brush Up on Everything Else  | [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Python).          |
 | Prep: Introduction to SQL  |  [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep:%20Introduction%20to%20SQL).      |
 | Prep: Practice in the Terminal |  [the link ](reading-notes/Practice_in_the_Terminal.md).      |
-
 | Prep: Setup your Accounts  |    [the link ](reading-notes/Prep_Setup_your_Accounts.md).      |
 | Prep: The Growth Mindset  |    [the link ](reading-notes/Prep_Your_Mindset.md).      |
 
@@ -32,7 +31,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Read: Class 04   |  [the link ](readlass4.md)      |
  |Read: Class 06 |  [the link ](Read_Class_06.md)      |
  |Read:Linked Lists|  [the link ](Read_Linked_Lists.md)       |
- |Read: Class 07  (Game of Greed 2) |  [the link ](/home/student/ASAC/READFILES/reading-notes/READ_7.md)      |
+ |Read: Class 07  (Game of Greed 2) |  [the link ](https://github.com/Eman-Alshaikh/reading-notes/blob/read/READ_7.md)      |
  
 
 
