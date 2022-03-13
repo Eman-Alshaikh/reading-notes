@@ -10,12 +10,13 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 |Prep: Career: Professional Etiquette	  |  [the link ](https://docs.google.com/document/d/1WCtXLQnU1HBiG0tT7mIbFj4KQJ6SfUxVuQ9g0N3LO04/edit?usp=sharing)          |
 |Prep: Career: Update Your Resume  |     [the link ](https://drive.google.com/file/d/1-ogBu1uXbgjkFa0qWu_X4zmH0HanEri3/view?usp=sharing)       |
  |Prep: Create a Reading Notes Repo|    [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io)           |
-| Prep: Deck Out Your Editor   |  [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Deck%20Out%20Your%20Editor).       |
+ |Prep: Deck Out Your Editor|    [the link ](reading-notes/Deck Out Your Editor.md)           |
 | Prep: Get Started with Python, Brush Up on Everything Else  | [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Python).          |
 | Prep: Introduction to SQL  |  [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep:%20Introduction%20to%20SQL).      |
-| Prep: Practice in the Terminal  |   [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Practice%20in%20the%20Terminal).         |
- | Prep: Setup your Accounts  |    [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep:%20Setup%20your%20Accounts).      |
-| Prep: The Growth Mindset |      [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep%20Your%20Mindset)       |
+| Prep: Practice in the Terminal  |   [the link ](reading-notes/Practice in the Terminal.md).         |
+| Prep: Setup your Accounts  |    [the link ](https://github.com/Eman-Alshaikh/reading-notes.github.io/blob/main/Prep:%20Setup%20your%20Accounts).      |
+| Prep: The Growth Mindset |      [the link ](reading-notes/Prep Your Mindset.md)       |
+
 |  Read: Class 03  |      [the link ](Read_Class_03.md)    |
 
 # Read contents : 
