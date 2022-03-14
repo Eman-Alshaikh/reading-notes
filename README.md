@@ -25,13 +25,13 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
 
 | Read Title     | Link |
 | -------------- | ----------- |
- |Read: Class 01 |  [the link ](Read_Class_01.md)      |
-|Read: Class 02   |  [the link ](Read_Class_02.md)      |
-|Read: Class 03    |  [the link ](Read_Class_03.md)      |
-|Read: Class 04   |  [the link ](readlass4.md)      |
- |Read: Class 06 |  [the link ](Read_Class_06.md)      |
- |Read:Linked Lists|  [the link ](Read_Linked_Lists.md)       |
- |Read: Class 07  (Game of Greed 2) |  [the link ](https://github.com/Eman-Alshaikh/reading-notes/blob/read/READ_7.md)      |
+ |Read: Class 01 |  [the link ](Read_Class_01)      |
+|Read: Class 02   |  [the link ](Read_Class_02)      |
+|Read: Class 03    |  [the link ](Read_Class_03)      |
+|Read: Class 04   |  [the link ](readlass4)      |
+ |Read: Class 06 |  [the link ](Read_Class_06)      |
+ |Read:Linked Lists|  [the link ](Read_Linked_Lists)       |
+ |Read: Class 07  (Game of Greed 2) |  [the link ](https://github.com/Eman-Alshaikh/reading-notes/blob/read/READ_7)      |
  
 
 
