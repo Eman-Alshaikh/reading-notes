@@ -20,7 +20,9 @@ For example, if you assign a value to a name inside a function, then that name w
 
 - Global (or module) scope :is the top-most scope in a Python program, script, or module. This Python scope contains all of the names that you define at the top level of a program or a module. Names in this Python scope are visible from everywhere in your code.
 
-Built-in scope : is a special Python scope that’s created or loaded whenever you run a script or open an interactive session. This scope contains names such as keywords, functions, exceptions, and other attributes that are built into Python. Names in this Python scope are also available from everywhere in your code. It’s automatically loaded by Python when you run a program or script.
+- Built-in scope : is a special Python scope that’s created or loaded whenever you run a script or open an interactive session. This scope contains names such as keywords, functions, exceptions, and other attributes that are built into Python. Names in this Python scope are also available from everywhere in your code. It’s automatically loaded by Python when you run a program or script.
+
+
 
 
 # Functions: The Local Scope
@@ -124,19 +126,17 @@ When you call outer_func() the code runs down to the point in which you call inn
 ---
 
 ## Don’t be CONFUSED by BIG O notation anymore!
+ 
 
-the explanations about Big O notation tend to get very mathematical ,this video give you :
-:
-- an overview a basic explanation to what is the  Big O notation .
 
-Big O notation is a measure of how long an algorithm takes to do something in its basic level at the most basic level that's what it is that's the time complexity component and the space complexity component of it is how much memory it takes up whilst it's doing it how many of your computer's resources is it allocating to itself in order to do what you've asked of it .
+the explanations about Big O notation tend to get very mathematical, this video gives you: :
 
-- why it's necessary .
+- an overview of a basic explanation of what is the Big O notation.
 
-it's a way of comparing algorithms with each other and it's a way of finding out how your algorithm will perform once you start send a
-lot of data at it so most modern
-computers will be able to process data quickly if you're just using it
-to process a small amount of data but what becomes really important especially if you're designing something that is mission-critical either for a business that's processing numerous transaction
-millions of transactions every day or a system that is vital for keeping  patients safe in a hospital or an aeroplane system .
+Big O notation is a measure of how long an algorithm takes to do something in its basic level at the most basic level that’s what it is that’s the time complexity component and the space complexity component of it is how much memory it takes up whilst it’s doing it how many of your computer’s resources is it allocating to itself in order to do what you’ve asked of it.
+
+- why it’s necessary.
+
+it’s a way of comparing algorithms with each other and it’s a way of finding out how your algorithm will perform once you start sending a lot of data at it so most modern computers will be able to process data quickly if you’re just using it to process a small amount of data but what becomes really important especially if you’re designing something that is mission-critical either for a business that’s processing numerous transaction millions of transactions every day or a system that is vital for keeping patients safe in a hospital or an airplane system.
 
  
