@@ -33,7 +33,7 @@ This website contains the tasks related to the reading notes :page_facing_up: fo
  |Read:Linked Lists|  [the link ](Read_Linked_Lists)       |
  |Read: Class 07  (Game of Greed 2) |  [the link ](READ_7)      |
   |Read: Class 08  (Game of Greed 3) |  [the link ](read_8)      |
-  |Read: Class 09  ( Game of Greed 4) |  [the link ](READ_9)      |
+  |Read: Class 09  ( Game of Greed 4) |  [the link ](READ_9.md)      |
 
    
  
